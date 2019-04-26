@@ -15,8 +15,6 @@ table{border-collapse:collapse;border-spacing:0;}
 a{text-decoration:none;}
 a:hover{text-decoration:none;}
 /*===========================  重置初始样式 end  ===========================*/
-
-
 /*===========================  通用样式 start  ===========================*/
 /*---------------------------  常用样式 start  ---------------------------*/
 .wh_mar{width:1200px;margin:0 auto;}
@@ -45,7 +43,7 @@ a:hover{text-decoration:none;}
 /*---------------------------  填充 end  ---------------------------*/
 
 /*---------------------------  icon start  ---------------------------*/
-.icon{background:url(../images/icon.png) no-repeat;}
+
 /*---------------------------  icon end  ---------------------------*/
 /*---------------------------  代码展示框 start  ---------------------------*/
 h1{width: 960px;margin:0 auto 20px;padding-top:20px;font-size: 18px;line-height: 25px;font-weight: normal;}
