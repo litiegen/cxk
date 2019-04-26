@@ -1,6 +1,3 @@
-/* by：弦云孤赫——David Yang
-** github - https://github.com/yangyunhe369
-*/
 // 游戏主要运行逻辑
 class Game {
   constructor (main) {
