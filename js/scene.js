@@ -212,8 +212,8 @@ class Scene {
 
     switch (lv) {
       case 1 : // 正三角形
-        var xNum = 16,                               // x轴砖块第一层数量
-            yNum = 9                                 // y轴砖块层数
+        var xNum = 14,                               // x轴砖块第一层数量
+            yNum = 5                                 // y轴砖块层数
         // 循环y轴
         for(let i = 0;i < yNum;i++){
           let arr = []
@@ -246,8 +246,8 @@ class Scene {
         }
         break
       case 2 :  // 倒三角形
-        var xNum = 16,                              // x轴砖块第一层数量
-            yNum = 9                                // y轴砖块层数
+        var xNum = 15,                              // x轴砖块第一层数量
+            yNum = 7                               // y轴砖块层数
         // 循环y轴
         for(let i = 0;i < yNum;i++){
           let arr = []
